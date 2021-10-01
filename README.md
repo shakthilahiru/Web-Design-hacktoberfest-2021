@@ -1,7 +1,7 @@
 # simple-web
 This project is perfect for your first pull request
 
-# Instructions
+## Instructions
 # Fork this Repository using the button at the top
 # Clone your forked repository to your pc
 # Create a new branch for your modifications (ie. git branch new-user and check it out git checkout new-user and git checkout -b new-user)
