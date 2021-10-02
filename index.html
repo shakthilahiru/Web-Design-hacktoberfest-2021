@@ -3,22 +3,112 @@
 <head>
 <title>CHILLING</title>
   <link rel="stylesheet" href="style.css">
+  <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="style.css">
+     <!-- Bootstrap CSS -->
+  <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.0.1/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-+0n0xVW2eSR5OomGNYDnhzAbDsOXxcvSN1TPprVMTNDbiYZCxYbOOl7+AMvyTG2x" crossorigin="anonymous">
+  <!-- Google fonts -->
+  <link rel="preconnect" href="https://fonts.gstatic.com">
+  <link href="https://fonts.googleapis.com/css2?family=Montserrat:wght@100;200;400;500;700&family=Roboto&family=Source+Sans+Pro&display=swap" rel="stylesheet">
 
+  <!-- icons ke liye -->
+  <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.13.0/css/all.css">
+
+  <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
+  
+  
+  <style>body{
+        margin: 0;
+        text-align: center;
+      background-color: rgb(138, 136, 136);
+      
+      }
+      
+      
+      .navigationBar{
+        margin-top: 0;
+        background-color:#e6e6e6;
+        opacity:0.9;
+        position: static;
+      }
+      
+      .nav-item{
+        font-weight: 400;
+        font-size: 1.3rem;
+        margin:0 10px;
+      }
+    h1{
+    text-align: center;
+    color:rgb(114, 1, 95);
+}
+
+p{
+    font-size: 20px;
+}
+      h2{
+        font-family:  'Montserrat', sans-serif;
+          font-size: 3rem; /*Optional*/
+          line-height: 1.5; /*Optional*/
+          font-weight: 900;
+      }
+      h3{
+        margin: 5% 0;
+      }
+      a{
+        text-decoration: none;
+      }
+      .card{
+          width: fit-content;
+          margin: 2% auto;
+          padding: 5%;
+      }
+      </style>
 </head>
 <body>
-    <div id="div1">
-        <h1>About me</h1>
-        <p>Name: <span id="name">Arindam Raina</span></p>
-        <p>Age: <span>20</span></p>
-        <p>Country Of Residence: <span class="country" id="i">I</span><span class="country" id="n">N</span><span class="country" id="d">D</span><span class="country" id="i">I</span><span class="country" id="a">A</span></p>
-    </div>
-    
-    <div id="div2">
-        <img src="Rock_Lee_Part_I.png" class="image" alt="image">
-    </div>
+
+     <!-- Navigation Bar -->
+
+  <div class="navigationBar">
+    <nav class="navbar navbar-expand-md navbar-light">
+      <div class="container-fluid">
+        <a class="navbar-brand" href="#">Hacktoberfest</a>
+
+        <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
+          <span class="navbar-toggler-icon"></span>
+        </button>
+        <div class="collapse navbar-collapse" id="navbarSupportedContent">
+
+          <ul class="navbar-nav ms-auto nav justify-content-end">
+
+            <li class="nav-item"><a class="nav-link active" aria-current="page" href="#"> Home </a> </li>
 
 
- 
-  
+           
+
+            <li class="nav-item"> <a class="nav-link" href="#"> Project
+              </a> </li>
+              <li class="nav-item"> <a class="nav-link" href="#"> Explore
+            </a> </li>
+            <li class="nav-item"> <a class="nav-link" href="#"> Contact
+            </a> </li>
+
+          </ul>
+        </div>
+      </div>
+    </nav>
+  </div>
+<br><br>
+  <DIV class="card">
+    <h1>Hacktoberfest 2021</h1>
+    <br>
+    <p>Name : <span style="color: rgb(90, 45, 250);"> Sonu Kumar Keshri</span></p>
+    <p>Age : 19 Years</p>
+    <p>Country of Residence : <span style="color: orange;"><B><i>I</i></B> </span><span style="color: orange;"><B><i>N</i></B> </span><span style="color: rgb(189, 187, 187);"><B><i>D</i></B> </span>
+        <span style="color: rgb(2, 150, 27);"><B><i>I</i></B>  </span><span style="color: rgb(2, 150, 27);"> <B><i>A</i></B> </span></p>
+
+    <img style="width: 100px; height: 110px; margin: auto; border-radius: 60%;" src="profile_image.jpeg" alt="your potrait image">
+</DIV>
+
 </body>
 </html>
