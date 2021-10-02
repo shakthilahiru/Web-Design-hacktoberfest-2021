@@ -1,0 +1,38 @@
+body{
+    text-align: center;
+    background-color:rgb(194, 194, 235);
+}
+img{
+    border: 2px solid;
+}
+
+.name
+{
+    color: blue;
+}
+
+.heading
+{
+    color: blueviolet;
+}
+
+.country
+{
+    font-style: italic;
+}
+.orange
+{
+    color: orangered;
+}
+.blue
+{
+    color: blue;
+}
+.green
+{
+    color: green;
+}
+.white
+{
+    color: white;
+}
