@@ -1,4 +1,4 @@
-# Hacktoberfest2021-Task1
+# Hacktoberfest2021-Web Design
 
 ### Read the following Instructions
 
@@ -9,6 +9,8 @@ Make a pull request
 
 #### Change the following
 
+- [ ] Create new folder and rename it<br>
+- [ ] Add your age to the web page<br>
 - [ ] Add your age to the web page<br>
 - [ ] Add your image to the web page<br>
 - [ ] Change the heading color to purple<br>
