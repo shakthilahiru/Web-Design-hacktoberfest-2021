@@ -1,0 +1,48 @@
+body
+{
+ background-color: rgb(255, 188, 241);
+}
+h1
+{
+ color: purple;
+}
+
+img
+{
+ border-radius: 50%;
+}
+
+#name
+{
+    color: blue;
+}
+
+#div2
+{
+    text-align: center;
+}
+
+#i
+{
+ color: rgb(255, 166, 0);
+}
+
+#n
+{
+ color: white;
+}
+
+#d
+{
+ color: rgb(2, 128, 2);
+}
+
+#a
+{
+ color: white;
+}
+
+.country
+{
+    font-style:italic ;
+}
