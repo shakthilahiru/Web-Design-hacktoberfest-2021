@@ -1,1 +1,41 @@
+body{
+    background-image: url("hacktoberfest2021.png");
+}
 
+#div1
+{
+    text-align: center;
+}
+
+h1{
+    color: purple;
+}
+
+#name
+{
+    color: blue;
+}
+
+#div2
+{
+    width: 99vw;
+}
+
+#image
+{
+    width: 250px;
+    margin: auto;
+    margin-left: 41vw;
+}
+
+#i{
+    color: orange;
+}
+
+#n,#a{
+    color: rgb(30, 6, 248);
+}
+
+#d{
+    color: green;
+}
