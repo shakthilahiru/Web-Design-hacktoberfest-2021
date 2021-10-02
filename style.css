@@ -1,1 +1,48 @@
+body
+{
+ background-color: aquamarine;
+}
+h1
+{
+ color: purple;
+}
 
+img
+{
+ border-radius: 50%;
+}
+
+#name
+{
+    color: blue;
+}
+
+#div2
+{
+    text-align: center;
+}
+
+#i
+{
+ color: orange;
+}
+
+#n
+{
+ color: white;
+}
+
+#d
+{
+ color: green;
+}
+
+#a
+{
+ color: white;
+}
+
+.country
+{
+    font-style:italic ;
+}
