@@ -9,6 +9,7 @@ Make a pull request
 
 #### Change the following
 
+- [x] Create new folder with your name<br>
 - [x] Add your age to the web page<br>
 - [x] Add your image to the web page<br>
 - [x] Change the heading color to purple<br>
