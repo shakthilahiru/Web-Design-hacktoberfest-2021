@@ -1,0 +1,88 @@
+@font-face {
+  font-family: "br_omega";
+  src: url("./font/br_omega-medium-webfont.woff");
+}
+body {
+  font-family: "br_omega", sans-serif;
+  color: #ffffff;
+  background-image: linear-gradient(
+    to right top,
+    #051937,
+    #004d7a91,
+    #008793,
+    #00bf739d,
+    #c1ff3ca2
+  );
+  background-size: cover;
+  background-repeat: no-repeat;
+  min-height: 100vh;
+}
+.container {
+  display: flex;
+  justify-content: center;
+  width: 100%;
+  margin-right: auto;
+  margin-left: auto;
+}
+.glass-rect {
+  padding-left: 60px;
+  padding-right: 60px;
+  display: block;
+  max-width: 80vw;
+  margin-top: 1vh;
+  margin-bottom: 30px;
+  padding: 20px;
+  border: 1px solid rgb(235, 233, 233);
+  background: linear-gradient(
+    111.29deg,
+    rgba(255, 255, 255, 0.53) -1.83%,
+    rgba(255, 255, 255, 0) 109.95%
+  );
+  box-shadow: 50px 60px 100px rgba(0, 0, 0, 0.05);
+  backdrop-filter: blur(70px);
+  border-top-left-radius: 40px;
+  border-top-right-radius: 40px;
+  border-bottom-left-radius: 40px;
+  border-bottom-right-radius: 40px;
+}
+.yo {
+  color: blueviolet;
+}
+.name {
+  color: blue;
+}
+.main {
+  margin-top: 2vh;
+  font-weight: normal;
+  display: inline-block;
+  padding: 20px;
+  padding-left: 50px;
+  padding-right: 50px;
+}
+.main-title {
+  font-size: 35px;
+}
+.age {
+  font-size: 17px;
+  line-height: 25px;
+}
+.gg {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+.country {
+  font-style: italic;
+}
+.orange {
+  color: rgb(255, 87, 27);
+}
+.blue {
+  color: blue;
+}
+.green {
+  color: green;
+}
+.white {
+  color: white;
+}
