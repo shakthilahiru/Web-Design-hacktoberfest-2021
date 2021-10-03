@@ -1,0 +1,47 @@
+body{
+
+    height: 575px;
+    background:-webkit-linear-gradient( orange,white,green);
+    background-image: cover;
+}
+h1{
+
+ color: purple;
+}
+
+
+
+#name{
+
+    color: blue;
+}
+
+#div2{
+
+    text-align: center;
+}
+
+#i{
+
+ color: orange;
+}
+
+#n{
+
+ color: white;
+}
+
+#d{
+
+ color: green;
+}
+
+#a{
+
+ color: white;
+}
+
+.country{
+
+    font-style:italic ;
+}
