@@ -1,0 +1,11 @@
+.heading{color: rgba(146, 75, 212, 0.884);}
+.name{color: rgb(27, 179, 250);}
+.country{font-style: italic;}
+.orange{color: orangered;}
+.blue{color: blue;}
+.white{color:aliceblue;}
+.green{color: rgb(3, 202, 3);}
+.myage{color: red;}
+.age{color: aliceblue;}
+.residence{color: aliceblue;}
+body{text-align: center; background-color:black}
