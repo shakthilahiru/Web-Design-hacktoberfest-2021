@@ -2,7 +2,8 @@
 
 ### Read the following Instructions
 
-Customize the webpage <br>
+Customize the webpage<br>
+Add the Star to repository<br>
 Fork the repository<br>
 Make the changes<br>
 Make a pull request
