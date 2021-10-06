@@ -3,7 +3,7 @@
 ### Read the following Instructions
 
 Customize the webpage<br>
-Add the Star to repository<br>
+Add Star to the repository<br>
 Fork the repository<br>
 Make the changes<br>
 Make a pull request
