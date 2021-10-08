@@ -1,1 +1,11 @@
+body{
+    background-color: coral;
+}
 
+h1{
+    color: purple;
+}
+
+#name{
+    color: blue;
+}
