@@ -1,47 +1,49 @@
-body{
+<style>
+    .star-container:nth-child(2) {
+        transform: rotate(calc(180deg / 7));
+    }
 
-    height: 575px;
-    background:-webkit-linear-gradient( orange,white,green);
-    background-image: cover;
-}
-h1{
+    .star-container:nth-child(3) {
+        transform: rotate(calc(180deg / 7 * 2)); 
+    }
 
- color: purple;
-}
+    .star-container:nth-child(4) {
+        transform: rotate(calc(180deg / 7 * 3));
+    }
 
+    .star-container:nth-child(5) {
+        transform: rotate(calc(180deg / 7 * 4));
+    }
 
+    .star-container:nth-child(6) {
+        transform: rotate(calc(180deg / 7 * 5));
+    }
 
-#name{
+    .star-container:nth-child(7) {
+        transform: rotate(calc(180deg / 7 * 6));
+    }
+</style>
 
-    color: blue;
-}
-
-#div2{
-
-    text-align: center;
-}
-
-#i{
-
- color: orange;
-}
-
-#n{
-
- color: white;
-}
-
-#d{
-
- color: green;
-}
-
-#a{
-
- color: white;
-}
-
-.country{
-
-    font-style:italic ;
-}
+<div class="stars">
+    <div class="star-container">
+        <div class="star"></div>
+    </div>
+    <div class="star-container">
+        <div class="star"></div>
+    </div>
+    <div class="star-container">
+        <div class="star"></div>
+    </div>
+    <div class="star-container">
+        <div class="star"></div>
+    </div>
+    <div class="star-container">
+        <div class="star"></div>
+    </div>
+    <div class="star-container">
+        <div class="star"></div>
+    </div>
+    <div class="star-container">
+        <div class="star"></div>
+    </div>
+</div>
