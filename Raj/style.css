@@ -1,0 +1,48 @@
+body{
+    background-color: rgb(241, 168, 168);
+    /* text-align: center; */
+    
+}
+img{
+    height: 300px;
+    border : 4px solid;
+    border-radius: 50%;
+
+
+}
+.aboutme{
+    /* align-items: center; */
+    text-align: center;
+    
+    font-family :-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif
+}
+.underline{
+    text-decoration-line: underline;
+}
+.name{
+    font-size: 32px;
+    color: blue;
+}
+.age{
+    font-size: 30px;
+    
+}
+.location{
+    font-size: 25px;
+    font-style: italic;
+}
+
+.a{
+    color: #FF9933 ;
+}
+.b{
+    color:	#FFFFFF;
+}
+.c{
+    color:#138808;
+}
+.country{
+    font-style: italic;
+    font-stretch: expanded;
+    font-size: 40px;
+}
