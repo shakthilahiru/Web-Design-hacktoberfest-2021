@@ -1,0 +1,43 @@
+h1 {
+    color: purple;
+}
+
+#name {
+    color: blue;
+}
+
+#content {
+    background-color: rgb(230, 188, 111);
+}
+
+#profile-pic {
+    background-color: rgb(149, 235, 92);
+}
+
+.country {
+    font-style:italic ;
+}
+
+.color-orange {
+    color: rgb(129, 101, 91);
+}
+
+.color-blue {
+    color: rgb(0, 225, 255);
+}
+
+.color-green {
+    color: rgb(23, 218, 23);
+}
+
+.color-white {
+    color: white;
+}
+
+.image {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 250px;
+    height: auto;
+}
