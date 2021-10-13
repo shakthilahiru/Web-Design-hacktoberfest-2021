@@ -6,7 +6,8 @@ Customize the webpage<br>
 Add Star to the repository<br>
 Fork the repository<br>
 Make the changes<br>
-Make a pull request
+Make a pull request<br>
+Follow my profile<br>
 
 #### Change the following
 
