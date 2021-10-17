@@ -1,48 +1,17 @@
-body
-{
- background-color: aquamarine;
+*{
+    background-color: aqua;
 }
-h1
-{
- color: purple;
-}
-
-img
-{
- border-radius: 50%;
-}
-
-#name
-{
-    color: blue;
-}
-
-#div2
-{
+div.container{
     text-align: center;
 }
-
-#i
-{
- color: orange;
+.purple{
+    color: purple;
 }
-
-#n
-{
- color: white;
+.blue{
+    color: blue;
 }
+.italic{
+    font-style: italic;
+    color:green;
 
-#d
-{
- color: green;
-}
-
-#a
-{
- color: white;
-}
-
-.country
-{
-    font-style:italic ;
 }
